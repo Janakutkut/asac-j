@@ -1,4 +1,5 @@
 # ASAC
+![this is an image](https://github.com/tatwan/ASAC_Data_Science/blob/main/course/assets/repo_images/logo.png)
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
